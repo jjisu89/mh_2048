@@ -60,8 +60,8 @@ var val2caption = function(val){
   "승창",
   "형민",
   "동휘",
-  "생일",
-  "축하",""];
+  "재흥",
+  "재이","생일","축하"];
 
   // if(val <= 0) return "<span style='font-size:smaller'>Garbage</span>";
   // if(val == 1){
