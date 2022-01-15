@@ -48,10 +48,10 @@ HTMLActuator.prototype.clearContainer = function (container) {
 
 var val2caption = function(val){
 
-  const captions = ["향",
+  const captions = [ 
+    "바보","향",
     "윤",
-  "써니", 
-  "바보",
+  "써니",
   "펠리",
   "동동",
   "미향", 
